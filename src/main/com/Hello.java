@@ -8,5 +8,6 @@ public class Hello {
     }
     public static void heBin2(){
         System.out.println("！！！！");
+        System.out.println("+++++");
     }
 }
