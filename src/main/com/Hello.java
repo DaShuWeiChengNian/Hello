@@ -10,4 +10,9 @@ public class Hello {
         System.out.println("！！！！");
         System.out.println("+++++");
     }
+
+    public void abc(){
+        aa a = new aa();
+        a.setA("abc");
+    }
 }
