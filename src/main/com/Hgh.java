@@ -10,8 +10,4 @@ public class Hgh {
     public static void heBin(){
         System.out.println("合并分支！！！！");
     }
-    public void a(){
-        System.out.println("a~");
-    }
-
 }
