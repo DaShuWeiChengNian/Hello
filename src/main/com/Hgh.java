@@ -14,5 +14,6 @@ public class Hgh {
     public void aa(){
         aa a = new aa();
         a.setA("AA");
+        System.out.println(a.getA());
     }
 }
